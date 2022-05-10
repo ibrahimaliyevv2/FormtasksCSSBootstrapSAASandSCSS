@@ -1,0 +1,9 @@
+.container {
+  width: 100% !important;
+}
+
+#navbarSupportedContent ul li a {
+  color: gray;
+  font-size: 16px;
+}
+/*# sourceMappingURL=style.css.map */
